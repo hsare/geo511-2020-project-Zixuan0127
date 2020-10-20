@@ -1,6 +1,6 @@
 ---
-title: "My Final Project Template"
-author: Your name here
+title: "Distribution of Precipitation in a Interactive Map"
+author: Zixuan Chen
 subtitle: Subtitle here if desired
 ---
 
