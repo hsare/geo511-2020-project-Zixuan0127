@@ -1,20 +1,16 @@
 ---
 title: "Distribution of Precipitation in a Interactive Map"
 author: Zixuan Chen
-subtitle: Subtitle here if desired
+subtitle: Subtitle here if desired you can delete this line
 ---
 
 # Introduction
 
-The precipitation is the most important data in the hydrology modeling. Analysis the precipitation data could improve the model. In this project, the interactive map could show the distribution of precipitation in the New York State. All the data is from the USGS, there are 35 stations were used in the project. The interactive map could indicate the mean, maximum, and minimum precipitation for each station. Also, the time series plots could illustrate the trend of the precipitation. 
-
-# Materials and methods
-
-All of the data is from the USGS. The period of each data is varied based on the station. The interval time is 15 minutes, thus it is important that transform the data to daily points.
-The processes are descried in following steps.
+The precipitation is the most important data in the hydrology modeling. Analysis the precipitation data could improve the model. In this project, the interactive map could show the distribution of precipitation in the New York State. All the data is from the USGS, there are 35 stations were used in the project. The interactive map could indicate the mean, maximum, and minimum precipitation for each station. Also, the time series plots could illustrate the trend of the precipitation. transform the data to daily points.
+The processes are descried in following steps. Your introduction is written like you still don't know if the results are correct or if there are better way to perform the same thing while your results are clearly amazing. So you could review your formulation.
 
 
-* Download the data from the URL of USGS directly.
+* Download the data from the URL of USGS directly. Great decribtion of the data you used but this cold be in Materials and Method section.
 * Data cleaning.
 * Insert the spatial information to each data point.
 * Time series plots and summarized table.
@@ -526,4 +522,4 @@ This project visualize the distribution of precipitation in New York State. Thos
 
 # References
 
-All sources are cited in a consistent manner
+All sources are cited in a consistent manner Do not forget sources
